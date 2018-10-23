@@ -1,0 +1,9 @@
+2018-10-21 19:46:02,066 - BrowserEngine - INFO - You had select Android .
+2018-10-21 19:46:02,066 - BrowserEngine - INFO - You had select 6.0 .
+2018-10-21 19:46:02,067 - BrowserEngine - INFO - You had select 127.0.0.1:21503 .
+2018-10-21 19:46:02,068 - BrowserEngine - INFO - You had select D:\workplace\appium/app/todolist.apk .
+2018-10-21 19:46:02,068 - BrowserEngine - INFO - start run app......
+2018-10-21 19:46:09,297 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2018-10-21 19:46:17,165 - BasePage - INFO - The element 1 was send.
+2018-10-21 19:46:24,632 - BasePage - INFO - The element  was send.
+2018-10-21 19:46:34,113 - BasePage - INFO - The element sdagkjfgslgjfkgjdfkgjkdfjg was send.
